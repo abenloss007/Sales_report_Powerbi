@@ -1,2 +1,2 @@
-# Sales_report_Powerbi
-Basic PowerBi dashboard for sales
+<h1>Bike Sales Dashboard</h1>
+<h3>(Relational Database)</h3>
